@@ -1,4 +1,4 @@
-**Analisis dan Pertanyaan **
+**Analisis dan Pertanyaan**
 
 1. Mapel mana yang memiliki rata-rata nilai tertinggi? 
   = Fisika
